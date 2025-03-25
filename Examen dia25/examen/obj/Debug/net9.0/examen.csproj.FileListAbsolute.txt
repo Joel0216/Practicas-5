@@ -1,0 +1,14 @@
+c:\Users\denic\Downloads\Examen dia25\examen\bin\Debug\net9.0\examen.exe
+c:\Users\denic\Downloads\Examen dia25\examen\bin\Debug\net9.0\examen.deps.json
+c:\Users\denic\Downloads\Examen dia25\examen\bin\Debug\net9.0\examen.runtimeconfig.json
+c:\Users\denic\Downloads\Examen dia25\examen\bin\Debug\net9.0\examen.dll
+c:\Users\denic\Downloads\Examen dia25\examen\bin\Debug\net9.0\examen.pdb
+c:\Users\denic\Downloads\Examen dia25\examen\obj\Debug\net9.0\examen.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\denic\Downloads\Examen dia25\examen\obj\Debug\net9.0\examen.AssemblyInfoInputs.cache
+c:\Users\denic\Downloads\Examen dia25\examen\obj\Debug\net9.0\examen.AssemblyInfo.cs
+c:\Users\denic\Downloads\Examen dia25\examen\obj\Debug\net9.0\examen.csproj.CoreCompileInputs.cache
+c:\Users\denic\Downloads\Examen dia25\examen\obj\Debug\net9.0\examen.dll
+c:\Users\denic\Downloads\Examen dia25\examen\obj\Debug\net9.0\refint\examen.dll
+c:\Users\denic\Downloads\Examen dia25\examen\obj\Debug\net9.0\examen.pdb
+c:\Users\denic\Downloads\Examen dia25\examen\obj\Debug\net9.0\examen.genruntimeconfig.cache
+c:\Users\denic\Downloads\Examen dia25\examen\obj\Debug\net9.0\ref\examen.dll
